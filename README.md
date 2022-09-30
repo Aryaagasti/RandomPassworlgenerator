@@ -1,1 +1,1 @@
-# RandomPassworlgenerator
+# RandomPasswordgenerator
